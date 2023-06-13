@@ -1,6 +1,7 @@
 #ifndef DALY_BMS_UART_H
 #define DALY_BMS_UART_H
 #include <string>
+#include <stdint.h>
 #include <unistd.h>
 #include <fcntl.h>
 #include <termios.h>
